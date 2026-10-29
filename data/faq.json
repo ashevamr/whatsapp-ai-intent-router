@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cartridge",
+    "keywords": ["картридж", "cartridge", "замен", "replace"],
+    "answer_ru": "Картридж меняется раз в 6–12 месяцев в зависимости от модели. Мы напоминаем о замене в WhatsApp.",
+    "answer_en": "Cartridges are replaced every 6–12 months depending on the model. We remind you on WhatsApp."
+  },
+  {
+    "id": "leak",
+    "keywords": ["течет", "течёт", "протек", "leak", "капает", "drip"],
+    "answer_ru": "Если фильтр подтекает, перекройте кран подачи воды и пришлите фото. Мастер свяжется с вами в течение дня.",
+    "answer_en": "If the filter leaks, close the water supply valve and send a photo. A technician will contact you within a day."
+  },
+  {
+    "id": "delivery",
+    "keywords": ["доставк", "delivery", "привез", "ship"],
+    "answer_ru": "Доставка по Астане бесплатная, 1–2 дня.",
+    "answer_en": "Delivery in Astana is free and takes 1–2 days."
+  }
+]

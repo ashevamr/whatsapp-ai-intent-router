@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-ai-intent-router",
+  "version": "1.0.0",
+  "description": "Reference implementation of a WhatsApp AI sales assistant where a deterministic decision layer classifies intent and an LLM only phrases the reply, so the bot can't invent prices.",
+  "type": "module",
+  "main": "src/pipeline.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "demo": "node scripts/demo.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "whatsapp",
+    "chatbot",
+    "llm",
+    "intent-classification",
+    "openai",
+    "crm"
+  ],
+  "author": "Adina Omarova (https://heyasheva.com)",
+  "license": "MIT"
+}

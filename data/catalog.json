@@ -1,0 +1,39 @@
+{
+  "store": "AquaDemo",
+  "currency": "KZT",
+  "note": "Fictional demo data. Not a real client catalogue.",
+  "products": [
+    {
+      "id": "flt-basic",
+      "name": "Basic jug filter",
+      "keywords": ["кувшин", "jug", "basic", "простой", "дешев", "cheap"],
+      "price": 14900,
+      "installment": null,
+      "specs": "3.5 L jug, cartridge lasts ~2 months"
+    },
+    {
+      "id": "flt-under-sink",
+      "name": "Under-sink filter 3-stage",
+      "keywords": ["под мойку", "мойк", "under-sink", "under sink", "3-stage", "трехступ", "трёхступ"],
+      "price": 89000,
+      "installment": { "months": 6, "monthly": 14834 },
+      "specs": "3 stages, separate tap, 1 year warranty"
+    },
+    {
+      "id": "flt-ro",
+      "name": "Reverse osmosis system",
+      "keywords": ["осмос", "osmosis", "ro", "обратн"],
+      "price": 189000,
+      "installment": { "months": 12, "monthly": 15750 },
+      "specs": "5 stages + mineralizer, 12 L tank, 2 year warranty"
+    },
+    {
+      "id": "svc-install",
+      "name": "Installation service",
+      "keywords": ["установк", "монтаж", "install"],
+      "price": 12000,
+      "installment": null,
+      "specs": "Installation in Astana within 2 days"
+    }
+  ]
+}
